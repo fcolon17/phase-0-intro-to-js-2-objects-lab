@@ -1,1 +1,1 @@
-// Write your solution in this file!
+const employee = { name: "Luis", streetAddress: "24 Vine St" };
